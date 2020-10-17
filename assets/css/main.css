@@ -259,7 +259,11 @@ input, select, textarea {
 		}
 
 /* Row */
-
+.divider{
+    width:70px;
+    height:auto;
+    display:inline-block;
+}
 	.row {
 		display: flex;
 		flex-wrap: wrap;
